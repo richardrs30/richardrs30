@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Rosario</h1>
-<h3 align="center">A passionate artificial intelligence developer from Perú</h3>
+<h3 align="center">A passionate artificial intelligence developer</h3>
 
 - 💬 Ask me about **Machine Learning, Deep Learning.**
 
