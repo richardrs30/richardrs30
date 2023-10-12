@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rars3096@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1T-DWDjwA0We6zowJfh09MX5QX1z7qLawgT8fZoYNW3Q/edit?usp=sharing](https://docs.google.com/document/d/1T-DWDjwA0We6zowJfh09MX5QX1z7qLawgT8fZoYNW3Q/edit?usp=sharing)
+- 📄 Know about my experiences https://n9.cl/n3nt5
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
