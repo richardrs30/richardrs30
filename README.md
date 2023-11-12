@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Rosario</h1>
-** Hello! I'm Richard, proactive and passionate about Artificial Intelligence, Machine Learning and Deep Learning. I love taking on new challenges and facing situations that allow me to develop my personal and professional growth. **
+**Hello! I'm Richard, proactive and passionate about Artificial Intelligence, Machine Learning and Deep Learning. I love taking on new challenges and facing situations that allow me to develop my personal and professional growth.**
 
 - 💬 Ask me about **Machine Learning, Deep Learning.**
 
