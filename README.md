@@ -29,5 +29,5 @@
 </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
-<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" width="40" height="40"/>
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="40" height="40"/>
 </a> </p>
