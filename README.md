@@ -8,7 +8,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<div style="margin-left: 200px;"> <!-- Contenedor con margen izquierdo -->
+<div> <!-- Contenedor con margen izquierdo -->
   <a href="https://linkedin.com/in/richardrs30" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardrs30" height="35" width="35" style="margin-right: 20px;" />
   </a>
