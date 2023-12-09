@@ -8,7 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/richardrs30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardrs30" height="30" width="40" /></a>
-</p>
+<a href="https://medium.com/@richardrs30" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="medium" height="30" width="40" /></a>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
