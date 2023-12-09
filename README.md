@@ -2,7 +2,7 @@
 
 **Proactive and passionate about Artificial Intelligence, Machine Learning and Deep Learning. I love taking on new challenges and facing situations that allow me to develop my personal and professional growth.**
 
-- 💬 Ask me about **Machine Learning, Deep Learning.**
+- 💬 Ask me about **Machine Learning, Deep Learning, Data, Python.**
 
 - 📫 How to reach me **rars3096@gmail.com**
 
